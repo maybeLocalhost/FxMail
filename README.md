@@ -37,9 +37,9 @@ IDEA下部分配置截图：
 - 邮件内容
 
   ![image-20200807212145940](https://cdn.jsdelivr.net/gh/maybeLocalhost/PicGoPhotos/img/image-20200807212145940.png)
-
-![image-20200807212212181](https://cdn.jsdelivr.net/gh/maybeLocalhost/PicGoPhotos/img/image-20200807212212181.png)
-
+  
+  ![image-20200807212212181](https://cdn.jsdelivr.net/gh/maybeLocalhost/PicGoPhotos/img/image-20200807212212181.png)
+  
 - 写信面板
 
   ![image-20200807212253748](https://cdn.jsdelivr.net/gh/maybeLocalhost/PicGoPhotos/img/image-20200807212253748.png)
